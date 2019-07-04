@@ -1,6 +1,6 @@
 owner=461145635282878475
-prefix=!
-game=!help
+prefix=*
+game=*help
 stayinchannel=true
 songinstatus=false
-token=NTk1OTM2NjQwNDM0OTYyNDQ0.XRyPRQ.70JEHQjgi5QO5MJBX1FZRH2srac
+NTk2MTMzNTMzNjgwOTI2NzQw.XR1Gtg.3bjaeTYHYZISgUbhvhBkDmj74Hk
